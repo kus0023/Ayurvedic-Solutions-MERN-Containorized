@@ -21,9 +21,10 @@ https://docs.docker.com/desktop/install/linux-install/
 
 ## 2. Setup
 
-1. Download the project.\
+1. Download the project.
 
-2. Run below command to make image and run container.\
+2. Run below command to make image and run container.
+
 
 ### `docker compose up`
 
@@ -32,10 +33,10 @@ https://docs.docker.com/desktop/install/linux-install/
 ## 3. UI pages
 
 **You can now access below pages:**\
-Admin - http://localhost:8080/\
-Client - http://localhost:8081/\
-Server - http://localhost:8000/\
-Mongo-express UI - http://localhost:8083/
+1. Admin - http://localhost:8080/
+2. Client - http://localhost:8081/
+3. Server - http://localhost:8000/
+4. Mongo-express UI - http://localhost:8083/
 
 ## 4. DB setup
 Yes! 😂😉 I know you are not able see anything because your DB doesn't have any data.
