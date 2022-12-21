@@ -12,8 +12,8 @@ services:
     environment:
       MONGO_INITDB_ROOT_USERNAME: root
       MONGO_INITDB_ROOT_PASSWORD: root
-    ports: #only doing it for inserting data for first time you can remove it afterwards if data is there.
-      - 27017:27017
+    # ports: # if you want to connect through compass.
+    #   - 27017:27017
     volumes:
       - ayurvedicdbdata:/data/db
 
@@ -34,7 +34,7 @@ services:
       - mongo
     build: /backend
     restart: on-failure
-    ports:
+    ports: # You can comment these two lines to prevent users from accessing your backend directly.
       - 8000:8000
     environment:
       DATABASE_NAME: ayurvedic-solutions
