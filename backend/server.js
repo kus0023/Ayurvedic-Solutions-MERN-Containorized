@@ -13,6 +13,11 @@ app.use(express.urlencoded({ extended: false }));
 // Database connection file
 require("./database/db");
 
+const PORT = process.env.PORT || 8000;
+app.all("/", (req, res)=>{
+  return res.status(200).send("Server is running. Please visit http://localhost:"+PORT+"/api");
+});
+
 //All route is in one folder related to api
 app.use("/api", require("./routes"));
 

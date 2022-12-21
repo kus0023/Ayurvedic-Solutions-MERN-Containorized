@@ -15,7 +15,8 @@
     ]
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "node index.js myapp",
+    "stop":"node killall -SIGINT myapp",
     "start-dev": "nodemon start",
     "test": "jest --watchAll --force-exit --detectOpenHandles",
     "admin-build": "cd admin && npm install && npm run build",
