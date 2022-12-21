@@ -1,0 +1,323 @@
+[{
+  "_id": {
+    "$oid": "60a1e91f06dfa127a40f652b"
+  },
+  "name": "Curcumin Capsules",
+  "description": "It is obtained from Curcuma longa which is rich in medicinal properties. It is anti-oxidant by nature that reduces the free radicals from body thereby improving health and immunity. This herb has the power to fight against infection and toxins. It is also helpful in many malignant cancers.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyuuhPTHFgqFjHUPu87lp8ZI1xxYcORgIUOw&usqp=CAU",
+  "dose": "2 capsules to be taken two times in a day with plain water after meals.",
+  "benefits": "Research suggests that curcumin can help in the management of oxidative and inflammatory conditions, metabolic syndrome, arthritis, anxiety, and hyperlipidemia. It may also help in the management of exercise-induced inflammation and muscle soreness, thus enhancing recovery and subsequent performance in active people.",
+  "disease": {
+    "$oid": "60a1e36306dfa127a40f6528"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1621223711498"
+    }
+  },
+  "modifyAt": {
+    "$date": {
+      "$numberLong": "1621223711498"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a1f81506dfa127a40f6531"
+  },
+  "name": "GHANDHAK RASAYAN",
+  "description": "These are herbal tablets which are made from Shuddh Gandhak (Purified Sulphur). The word rasayan means rejuvenation. Its natural property is to rejuvenate the body without any side effect. These tablets help to remove toxins from body.",
+  "image": "https://ayurcentralonline.com/4132-large_default/gandhak-rasayan.jpg",
+  "dose": " 1-2 tablets twice in a day with plain water after meals.",
+  "benefits": "Gandhak Rasayan helps to treat skin diseases like ringworm, scabies, itching and other fungal infections. It is an ayurvedic medicine which has powerful anti-bacterial, anti-microbial and anti-viral properties.",
+  "disease": {
+    "$oid": "60a1f0d906dfa127a40f652f"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1621227541120"
+    }
+  },
+  "modifyAt": {
+    "$date": {
+      "$numberLong": "1621227541120"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a25cae06dfa127a40f6537"
+  },
+  "name": "AMLA SAAR",
+  "description": "It is Indian Gooseberry Juice which is made from Emblica officinalis (Amla). It is the best herbal formulation as per Ayurvedic text, Charak Samhita.",
+  "image": "https://saaralfoods.com/wp-content/uploads/2020/12/1_Amla-juice_375ml.jpg",
+  "dose": "Mix equal amount of Amla saar and water and consume it twice in a day after meals.",
+  "benefits": "It helps to maintain overall health. Enhances eyesight. This syrup has antioxidant properties which helps to remove toxins from body.",
+  "disease": {
+    "$oid": "60a2593e06dfa127a40f6535"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1621253294534"
+    }
+  },
+  "modifyAt": {
+    "$date": {
+      "$numberLong": "1621253294534"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a1ebaf06dfa127a40f652e"
+  },
+  "name": "Kanchnaar Guggul",
+  "description": "This is a natural product obtained from mixture of kachnar bark (Bauhinia variegata), Amalaki (Emblica officinalis), Haritaki (Terminalia chebula), Bibhitaki (Terminalia bellerica), ginger (Zingiber officinale), Black pepper (Piper nigrum), Pippali (Piper longum) and Varuna (Crataeva religiosa).",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV2cmjlZxyJcWa1l_A7BdEuOmFaUemAxu9pQ&usqp=CAU",
+  "dose": "2 tablets to be taken three times in a day with plain water after meals.",
+  "benefits": " It helps to maintain cells and tissues healthy. ",
+  "disease": {
+    "$oid": "60a1e36306dfa127a40f6528"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1621224367488"
+    }
+  },
+  "modifyAt": {
+    "$date": {
+      "$numberLong": "1621224367488"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a1e6fa06dfa127a40f652a"
+  },
+  "name": "Guggul capsules",
+  "description": "This is obtained from Guggul (Commiphora mukul).",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPimooZ4ATmDg6W_OoW5KKa-JFlul6aE6U1Q&usqp=CAU",
+  "dose": " 2 capsules to be taken two times in a day with plain water after meals.",
+  "benefits": " It has antioxidant property. It has blood purifying property. It is useful in many health conditions. It revitalizing cells and therefore rejuvenates them. It has anti-inflammatory and pain relieving property. ",
+  "disease": {
+    "$oid": "60a1e36306dfa127a40f6528"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1621223162815"
+    }
+  },
+  "modifyAt": {
+    "$date": {
+      "$numberLong": "1621223162815"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a1eaf206dfa127a40f652d"
+  },
+  "name": "Chanderprabha Vati",
+  "description": "This tablet contains combination of different ingredients for eg. Shilajit (Asphaltum), Sugar (Shakara), Vacha (Acorus calamus), Haridra (Curcuma longa), Karpoor (Cinnamomum camphora), Amla (Emblica officinalis) etc.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcBdBnH7YQ3lEr_F9VAeLGmT_8-BYSMQgCw&usqp=CAU",
+  "dose": "2 tablets to be taken three times in a day with plain water after meals.",
+  "benefits": "It has the property of giving calming effect to entire body. It is one of the most potent adaptogen and stress busters that gives relaxation of tenseness. This is effective against infection and helps to lose weight.",
+  "disease": {
+    "$oid": "60a1e36306dfa127a40f6528"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1621224178789"
+    }
+  },
+  "modifyAt": {
+    "$date": {
+      "$numberLong": "1621224178789"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a1f90a06dfa127a40f6532"
+  },
+  "name": "MANJISTHA CAPSULES",
+  "description": "These capsules are prepared from standardized extract of herb (Rubia cordifolia) that give effective result in candidiasis. Manjistha capsules manage all signs & symptoms associated with candidiasis.",
+  "image": "https://img1.exportersindia.com/product_images/bc-full/dir_39/1149953/manjistha-capsule-1997615.jpg",
+  "dose": " 1-2 capsules twice daily with plain water after meals.",
+  "benefits": "Sanctified with antioxidant, antimicrobial and anti-inflammatory properties, Ayurveda acknowledges manjistha as a well-known one-step remedy for various skin conditions. Owing to its blood purifying properties which helps in removing toxins from the blood, it helps in treating a host of skin infections as well.",
+  "disease": {
+    "$oid": "60a1f0d906dfa127a40f652f"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1621227786660"
+    }
+  },
+  "modifyAt": {
+    "$date": {
+      "$numberLong": "1621227786660"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a2019006dfa127a40f6533"
+  },
+  "name": "NIRGUNDI OIL",
+  "description": "NIRGUNDI OIL is obtained from an aromatic shrub called Vitex negundo which has bitter, pungent, astringent taste, rose colored flowers and small brown fruits that is used for medicinal purpose. It is a multipurpose and versatile herb.",
+  "image": "https://m.media-amazon.com/images/I/51c9tEMNQxL._SL1000_.jpg",
+  "dose": "It is for external use only. Apply on affected skin area. Leave it for 10-15 minutes and wash with lukewarm water. It is more beneficial to apply Nirgundi oil before bath to reduce swelling, pain and irritation.",
+  "benefits": "It has anti-inflammatory properties which helps to pacify the inflammation.",
+  "disease": {
+    "$oid": "60a1f0d906dfa127a40f652f"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1621229968390"
+    }
+  },
+  "modifyAt": {
+    "$date": {
+      "$numberLong": "1621229968390"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a25b8606dfa127a40f6536"
+  },
+  "name": "AMALAKI RASAYAN",
+  "description": "These are pure natural herbal capsules which are obtained from extract of Indian Gooseberry (Emblica officinalis). It is the richest source of vitamin C. It is natural and safe and best anti-aging substance. ",
+  "image": "https://assets.lybrate.com/img/otc/product/divya-amalki-rasayan-0",
+  "dose": "2 Capsules twice a day with plain water after meals.",
+  "benefits": "It has anti-oxidant properties which helps to remove free radicals from body. These herbal capsule improve eyesight. It helps to reducing inflammation of eyes.",
+  "disease": {
+    "$oid": "60a2593e06dfa127a40f6535"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1621252998899"
+    }
+  },
+  "modifyAt": {
+    "$date": {
+      "$numberLong": "1621252998899"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a25d5806dfa127a40f6538"
+  },
+  "name": "BILBERRY CAPSULES",
+  "description": "These are pure natural capsules by planet Ayurveda which are obtained from pure herb named as Bilberry (Vaccinium myrtillus). Bilberry is also known as Whortleberry and blueberry.",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/71JvVbfeEzL._AC_SX466_.jpg",
+  "dose": "2 capsules with milk or water with plain water after meals.",
+  "benefits": "It has wonderful effect on eyes. Full of anti-oxidant properties. Improves blood circulation in all parts of body.",
+  "disease": {
+    "$oid": "60a2593e06dfa127a40f6535"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1621253464110"
+    }
+  },
+  "modifyAt": {
+    "$date": {
+      "$numberLong": "1621253464110"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a25f9f06dfa127a40f6539"
+  },
+  "name": "VARA CHURNA",
+  "description": "It is an herbal powder also known as Triphala powder. This herbal powder is made up of three natural herbs Haritaki (Terminalia chebula), Bhibhitaki (Terminalia bellirica) and Amalaki (Emblica officinalis). These three herbs together known as Myrobalans. It is effective against various diseased conditions.",
+  "image": "https://images.shophealthy.in/cache/sellers/4390/Vara-churna-1000x1000.PNG",
+  "dose": "1 teaspoonful mix with warm water and consume it twice in a day after meals.",
+  "benefits": "Haritaki (Terminalia chebula): It is commonly used herb in India which is useful in relieving. It helps to improve digestive problems.  Its regular use is helpful in reducing cloudiness of eye lens. Bhibhitaki (Terminalia bellirica): Its paste is useful in relieving conjunctivitis. Amalaki (Emblica officinalis): It is commonly known as Indian Gooseberry. It is richest source of vitamin C. It is helpful in various ailments. Its regular use maintains the transparency of eye lens.",
+  "disease": {
+    "$oid": "60a2593e06dfa127a40f6535"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1621254047755"
+    }
+  },
+  "modifyAt": {
+    "$date": {
+      "$numberLong": "1621254047755"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a1e57e06dfa127a40f6529"
+  },
+  "name": "Ashwgandha Capsules",
+  "description": "It is 100% natural product obtained from Ashwagandha (Withania somnifera).",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNj5bC_36RQYhrifpfh4eSF_QG5WC0WD7RfA&usqp=CAU",
+  "dose": "2 capsules to be taken two times in a day with plain water after meals.",
+  "benefits": "It possesses natural rejunvating properties to the body. It is also used in fatigue, stress and weakness.",
+  "disease": {
+    "$oid": "60a1e36306dfa127a40f6528"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1621222782278"
+    }
+  },
+  "modifyAt": {
+    "$date": {
+      "$numberLong": "1621222782278"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a1ea3d06dfa127a40f652c"
+  },
+  "name": "Tulsi Capsules",
+  "description": "This is natural extract obtained from pure tulsi (Ocimum sanctum).",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKSMuviurZkAlL3_f-yYM6PDVAFAqgjFBTKg&usqp=CAU",
+  "dose": "2 capsules to be taken two times in a day with plain water after meals.",
+  "benefits": "It has strong anti-oxidant properties that eliminate antioxidants from body.It has overall effective results in respiratory system.It has anti- inflammatory property.It is also useful in treatment of cough, cold, flu and headaches.",
+  "disease": {
+    "$oid": "60a1e36306dfa127a40f6528"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1621223997890"
+    }
+  },
+  "modifyAt": {
+    "$date": {
+      "$numberLong": "1621223997890"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a1f71606dfa127a40f6530"
+  },
+  "name": "NEEM CAPSULES",
+  "description": "It is 100% natural product offered by Planet Ayurveda which is obtained from standardized extract of herb neem (Azadirachta indica) belongs to family Meliaceae.",
+  "image": "https://cdn.shopify.com/s/files/1/0316/7561/3320/products/neem_image_1_97c0ecab-2e6d-43d4-a5be-a0721044ee7c_1200x1200.png?v=1585682164",
+  "dose": "1-2 capsules twice daily with plain water after meals.",
+  "benefits": "It helps to maintain healthy skin. The capsule possesses anti-bacterial and anti-inflammatory properties. Use of neem capsules show positive effects on skin diseases like eczema, acne or psoriasis. ",
+  "disease": {
+    "$oid": "60a1f0d906dfa127a40f652f"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1621227286448"
+    }
+  },
+  "modifyAt": {
+    "$date": {
+      "$numberLong": "1621227286448"
+    }
+  },
+  "__v": 0
+}]

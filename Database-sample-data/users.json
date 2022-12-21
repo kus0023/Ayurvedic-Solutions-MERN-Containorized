@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "63a31916fa49eb16f5f54798"
+  },
+  "isAdmin": true,
+  "createdBy": null,
+  "firstName": "utsav",
+  "lastName": "singh",
+  "email": "utsav@gmail.com",
+  "password": "$2a$10$GTTnrkJYH.AHQciIlwKXFuY3oMrkBpJpYTunEa5h3LO1icaCz64WW",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671633174027"
+    }
+  },
+  "__v": 0
+}]

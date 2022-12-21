@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "60a2593e06dfa127a40f6535"
+  },
+  "commonNames": [
+    "Linga nasha"
+  ],
+  "causes": [
+    "Age Related: It is common cause of cataract. As with increasing age, proteins start getting accumulated in eye region that makes cloud on lens area.",
+    "Trauma",
+    "UV radiation",
+    "Medications",
+    "Diseased condition like diabetes."
+  ],
+  "symptoms": [
+    "Blurred vision",
+    "Difficulty with vision at night",
+    "Double vision",
+    "Problem to differentiate colors",
+    "Sensitivity to light",
+    "Seeing halos around lights",
+    "Fading or yellowing of colors",
+    "Frequent changes in eyeglass or contact lens prescription"
+  ],
+  "remedies": [
+    {
+      "$oid": "60a25b8606dfa127a40f6536"
+    },
+    {
+      "$oid": "60a25cae06dfa127a40f6537"
+    },
+    {
+      "$oid": "60a25d5806dfa127a40f6538"
+    },
+    {
+      "$oid": "60a25f9f06dfa127a40f6539"
+    }
+  ],
+  "name": "Cataract",
+  "description": "Cataract is an eye problem in which protein is deposited over eye lens that leads to cloudiness of lens which results in loss of vision. It begins with interference in daily activities. It refers to change in the appearance of eye lens, as it becomes opaque and whitish in cataract. Normally it occurs with advancing age and about 70% of old people above 75 years of age suffer from cataract. Usually it occurs in both eyes but mostly the one eye is affected earlier than other.",
+  "createdBy": {
+    "$oid": "608118a146a3c52f00fc1535"
+  },
+  "modifyBy": {
+    "$oid": "608118a146a3c52f00fc1535"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1621252414304"
+    }
+  },
+  "modifyAt": {
+    "$date": {
+      "$numberLong": "1621252414304"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a1e36306dfa127a40f6528"
+  },
+  "commonNames": [],
+  "causes": [
+    "Carcinogens like tobacco, arsenic, radiation etc",
+    "More exposure of sunlight and ultraviolet rays",
+    "Excessive use of alcohol",
+    "Obesity",
+    "Lack of physical activity",
+    "Damage or mutation in the DNA resulting in the damage to the genes involved in cell division. ",
+    "Cigarette smoking",
+    "Exposure to radiation from X-rays, gamma rays, cellular phones and cell phone towers. "
+  ],
+  "symptoms": [
+    "Fever",
+    "Fatigue",
+    "Pain",
+    "Unusual bleeding",
+    "Nagging cough",
+    "Indigestion problems or trouble swallowing.",
+    "Unexplained weight loss",
+    "Skin changes"
+  ],
+  "remedies": [
+    {
+      "$oid": "60a1e57e06dfa127a40f6529"
+    },
+    {
+      "$oid": "60a1e6fa06dfa127a40f652a"
+    },
+    {
+      "$oid": "60a1e91f06dfa127a40f652b"
+    },
+    {
+      "$oid": "60a1ea3d06dfa127a40f652c"
+    },
+    {
+      "$oid": "60a1eaf206dfa127a40f652d"
+    },
+    {
+      "$oid": "60a1ebaf06dfa127a40f652e"
+    }
+  ],
+  "name": "Cancer",
+  "description": "The abnormal growth of cells is cancer. It grows out of control and affect the surrounding tissue and organs. With a period of time, toxins collect at the site of a particular organ; it may result in fatal growth in its surrounding cells. The groups of cells accumulate and produce swelling at the site. Nearby cells and tissues are also affected if the toxins are not removed as the infected cells are circulated to other parts of the body through the blood stream.",
+  "createdBy": {
+    "$oid": "608118a146a3c52f00fc1535"
+  },
+  "modifyBy": {
+    "$oid": "608118a146a3c52f00fc1535"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1621222243484"
+    }
+  },
+  "modifyAt": {
+    "$date": {
+      "$numberLong": "1621222243484"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a1f0d906dfa127a40f652f"
+  },
+  "commonNames": [
+    "Vata dosha",
+    "Pitta dosha",
+    "Kapha dosha"
+  ],
+  "causes": [
+    "Environmental factors - warm weather and moist area are more common for growth of candida albicans",
+    "Tight clothing",
+    "Unhygienic conditions",
+    "Medicines - antibiotics used to kill harmless bacteria and fungi",
+    "Weak immune system",
+    "Wet skin",
+    "Diseased condition - diabetes, pregnancy or any other medical complication"
+  ],
+  "symptoms": [
+    "Redness",
+    "Itching",
+    "Swelling",
+    "Rashes",
+    "Burning sensation"
+  ],
+  "remedies": [
+    {
+      "$oid": "60a1f71606dfa127a40f6530"
+    },
+    {
+      "$oid": "60a1f81506dfa127a40f6531"
+    },
+    {
+      "$oid": "60a1f90a06dfa127a40f6532"
+    },
+    {
+      "$oid": "60a2019006dfa127a40f6533"
+    }
+  ],
+  "name": "Candidiasis",
+  "description": "Candidiasis is a fungal infection that can affect any area of body such as skin, genitals, throat, mouth & blood. It is caused by the yeast called Candida. There are about 20 species of candida that may cause infection but Candida albicans is most common yeast infection. Normally it is found in small amount in human body but overgrowth of candida results in infection or diseased condition. This problem can be managed with the help of modern science as well Ayurvedic theory. According to Ayurveda, to eradicate the yeast infection it is important to address the main cause of infection while using herbal formulations to balance the body towards health. There are numerous herbs present in nature that help to manage the symptoms associated with disease such as Lodhra (Symplocus racemosa), Ashok (Saraca indica), Udumbur (Ficus glomerata) & Arjuna (Terminalia arjuna).",
+  "createdBy": {
+    "$oid": "608118a146a3c52f00fc1535"
+  },
+  "modifyBy": {
+    "$oid": "608118a146a3c52f00fc1535"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1621225689510"
+    }
+  },
+  "modifyAt": {
+    "$date": {
+      "$numberLong": "1621225858272"
+    }
+  },
+  "__v": 1
+}]

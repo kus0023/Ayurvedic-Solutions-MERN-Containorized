@@ -1,0 +1,65 @@
+# Use root/example as user/password credentials
+version: '1.0'
+
+volumes:
+  ayurvedicdbdata:
+
+services:
+
+  mongo:
+    image: mongo
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: root
+    ports: #only doing it for inserting data for first time you can remove it afterwards if data is there.
+      - 27017:27017
+    volumes:
+      - ayurvedicdbdata:/data/db
+
+  mongo-express:
+    depends_on:
+      - mongo
+    image: mongo-express
+    restart: always
+    ports:
+      - 8083:8081
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: root
+      ME_CONFIG_MONGODB_ADMINPASSWORD: root
+      ME_CONFIG_MONGODB_URL: mongodb://root:root@mongo:27017/
+
+  backend:
+    depends_on:
+      - mongo
+    build: /backend
+    restart: on-failure
+    ports:
+      - 8000:8000
+    environment:
+      DATABASE_NAME: ayurvedic-solutions
+      DATABASE_MONGO_URL: mongodb://root:root@mongo:27017/
+      # DATABASE_MONGO_URL: mongodb+srv://atlas:<cloud-pass>@<cloud-username>.<cloud-unique-url>/$?retryWrites=true&w=majority #database should be replaced by $
+      SESSION_SECRETE: Session_secrete_key
+      JWT_SECRETE: JWT_secrete_for_users
+      NODE_ENV: DEV
+
+  admin:
+    depends_on:
+      - backend
+    build: /admin
+    restart: on-failure
+    links:
+      - backend
+    ports:
+      - 8080:3000
+
+  client:
+    depends_on:
+      - backend
+    build: /client
+    restart: on-failure
+    links:
+      - backend
+    ports:
+      - 8081:3000
