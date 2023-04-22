@@ -50,4 +50,6 @@ You should be good.
 
 If not Feel free to contact me @ 📧 *kus.maurya0000@gmail.com*. I will be happy to resolve your issue.
 
+I'm looking for ways to make my project even better and would be grateful for any guidance you can offer.
+
 
