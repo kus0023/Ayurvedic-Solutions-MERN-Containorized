@@ -1,5 +1,5 @@
 # Use root/example as user/password credentials
-version: '1.0'
+# version: '1.0'
 
 volumes:
   ayurvedicdbdata:
@@ -32,7 +32,7 @@ services:
   backend:
     depends_on:
       - mongo
-    build: /backend
+    build: ./backend
     restart: on-failure
     ports: # You can comment these two lines to prevent users from accessing your backend directly.
       - 8000:8000
@@ -47,7 +47,7 @@ services:
   admin:
     depends_on:
       - backend
-    build: /admin
+    build: ./admin
     restart: on-failure
     links:
       - backend
@@ -57,9 +57,9 @@ services:
   client:
     depends_on:
       - backend
-    build: /client
+    build: ./client
     restart: on-failure
     links:
       - backend
     ports:
-      - 8081:3000
+      - 80:3000
